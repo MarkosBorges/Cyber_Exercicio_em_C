@@ -1,0 +1,14 @@
+C:\dev\Exercicio_em_C\bin\Debug\net7.0\Exercicio_em_C.exe
+C:\dev\Exercicio_em_C\bin\Debug\net7.0\Exercicio_em_C.deps.json
+C:\dev\Exercicio_em_C\bin\Debug\net7.0\Exercicio_em_C.runtimeconfig.json
+C:\dev\Exercicio_em_C\bin\Debug\net7.0\Exercicio_em_C.dll
+C:\dev\Exercicio_em_C\bin\Debug\net7.0\Exercicio_em_C.pdb
+C:\dev\Exercicio_em_C\obj\Debug\net7.0\Exercicio_em_C.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Exercicio_em_C\obj\Debug\net7.0\Exercicio_em_C.AssemblyInfoInputs.cache
+C:\dev\Exercicio_em_C\obj\Debug\net7.0\Exercicio_em_C.AssemblyInfo.cs
+C:\dev\Exercicio_em_C\obj\Debug\net7.0\Exercicio_em_C.csproj.CoreCompileInputs.cache
+C:\dev\Exercicio_em_C\obj\Debug\net7.0\Exercicio_em_C.dll
+C:\dev\Exercicio_em_C\obj\Debug\net7.0\refint\Exercicio_em_C.dll
+C:\dev\Exercicio_em_C\obj\Debug\net7.0\Exercicio_em_C.pdb
+C:\dev\Exercicio_em_C\obj\Debug\net7.0\Exercicio_em_C.genruntimeconfig.cache
+C:\dev\Exercicio_em_C\obj\Debug\net7.0\ref\Exercicio_em_C.dll
